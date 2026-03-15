@@ -1,0 +1,30 @@
+pip install matplotlib
+
+python -m pip install matplotlib
+
+py -m pip install matplotlib
+
+
+
+
+
+
+pip install streamlit
+
+python -m pip install streamlit
+
+python -m streamlit run app.py
+
+streamlit run app.py
+
+
+เทส 
+
+| Case | Creatinine | BUN | GFR | Urine_Output | Diabetes | Hypertension | Age | Protein_in_Urine | Water_Intake | ACE_Inhibitor | ARB | Diuretic | ผลลัพธ์ที่ควรได้ |
+| ---- | ---------- | --- | --- | ------------ | -------- | ------------ | --- | ---------------- | ------------ | ------------- | --- | -------- | ---------------- |
+| 1    | 6.2        | 160 | 15  | 300          | 1        | 1            | 65  | 4                | 1.2          | 1             | 0   | 1        | เสี่ยงโรคไต      |
+| 2    | 5.8        | 140 | 18  | 400          | 1        | 1            | 59  | 3                | 1.5          | 1             | 1   | 0        | เสี่ยงโรคไต      |
+| 3    | 1.0        | 18  | 95  | 1500         | 0        | 0            | 32  | 0                | 2.5          | 0             | 0   | 0        | ปกติ             |
+| 4    | 0.9        | 16  | 100 | 1600         | 0        | 0            | 28  | 0                | 2.8          | 0             | 0   | 0        | ปกติ             |
+| 5    | 3.5        | 90  | 35  | 700          | 1        | 1            | 55  | 2                | 1.8          | 1             | 0   | 1        | เสี่ยงโรคไต      |
+
